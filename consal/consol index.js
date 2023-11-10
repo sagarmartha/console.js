@@ -1,20 +1,20 @@
-console.assert()
-console.clear()
-console.count()
-console.countReset()
-console.debug()
-console.dir()
-console.dirxml()
-console.error('This is find error ')
-console.group()
-console.groupCollapsed()
-console.groupEnd()
-console.info()
-console.log('This is Sagar')
-console.table()
-console.time()
-console.timeEnd()
-console.timeLog()
-console.timeStamp()
-console.trace()
-console.warn('This is warning')
+console.assert('when the condition is falue');
+console.clear('clear the data to console');
+console.count('');
+console.countReset();
+console.debug();
+console.dir();
+console.dirxml();
+console.error('This is find error ');
+console.group();
+console.groupCollapsed();
+console.groupEnd();
+console.info();
+console.log('');
+console.table('Use to see output in table format');
+console.time();
+console.timeEnd();
+console.timeLog();
+console.timeStamp();
+console.trace();
+console.warn('This is warning');
